@@ -16,8 +16,12 @@
   ![Language Badge](https://img.shields.io/badge/Language-Javascript-brightgreen)
 
   # Description
+<<<<<<< HEAD
   Extremely fun
 >>>>>>> develop
+=======
+  It's the funnest thing ever
+>>>>>>> feature/video
 
   # Table of Contents
   - [Installation](#installation)
@@ -32,6 +36,7 @@
   
   # Installation
 <<<<<<< HEAD
+<<<<<<< HEAD
   undefined
 
   # Usage
@@ -42,6 +47,12 @@
   # Usage
   To create a readme
 >>>>>>> develop
+=======
+  Have fun
+
+  # Usage
+  Happy wife, happy life.
+>>>>>>> feature/video
 
   # Credits
   Xandromus
@@ -76,13 +87,13 @@
 
 
   # Features
-  5
+  About 5 of them.
 
   # Contributing
-  Please do
+  DON'T ABUSE THE CODE.... EVER
 
   # Tests
-  Stressful ones
+  A whole lotta of them
 
   # Questions
   Github: https://github.com/TannerCarter </br>
