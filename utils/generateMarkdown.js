@@ -65,11 +65,7 @@ function renderlicenseLink(license) {
         cert = "unlicense";
         break;
     }
-<<<<<<< HEAD
     return `[License badge](https://choosealicense.com/licenses/${cert}/)`;
-=======
-    return `https://choosealicense.com/licenses/${cert}/`;
->>>>>>> develop
   }
   return "";
 }
@@ -104,11 +100,7 @@ function renderBadges(badges) {
         lang = "Node%20JS";
         break;
     }
-<<<<<<< HEAD
     return `![Language Badge](https://img.shields.io/static/v1?label=language&message=${lang}&color=brightgreen)`;
-=======
-    return `![Language Badge](https://img.shields.io/badge/Language-${lang}-brightgreen)`;
->>>>>>> develop
   }
   return "";
 }
@@ -132,11 +124,7 @@ function renderbadgeLink(badges) {
         lang = "Node%20JS";
         break;
     }
-<<<<<<< HEAD
     return `[Language Badge](https://img.shields.io/static/v1?label=language&message=${lang}&color=brightgreen)`;
-=======
-    return `[Language Badge](https://img.shields.io/badge/Language-${lang}-brightgreen)`;
->>>>>>> develop
   }
   return "";
 }
@@ -198,11 +186,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   # Questions
-<<<<<<< HEAD
   Github: https://github.com/${data.githubUsername} <br>
-=======
-  Github: https://github.com/${data.githubUsername} </br>
->>>>>>> develop
   For any questions or concerns, please reach out to me via email: ${data.email}
 
 `;
