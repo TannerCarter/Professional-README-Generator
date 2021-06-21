@@ -1,13 +1,13 @@
-# ajsd 
+# Tanner 
   
  
-  [license badge](https://img.shields.io/badge/license-undefined-brightgreen) 
+   
   
  
   ![Language Badge](https://img.shields.io/static/v1?label=language&message=Javascript&color=brightgreen)
 
   # Description
-  sadsa
+  What is up
 
   # Table of Contents
   - [Installation](#installation)
@@ -21,17 +21,15 @@
   - [Questions](#questions)
   
   # Installation
-  dsfg
+  sad
 
   # Usage
-  tyyt
+  reter
 
   # Credits
-  gtht
+  reret
 
   
-  # license 
-  [License badge](https://choosealicense.com/licenses/apache-2.0/)
 
   
   # Badges 
@@ -39,15 +37,15 @@
 
 
   # Features
-  dfg
+  fdgdf
 
   # Contributing
-  yt
+  err
 
   # Tests
-  fdg
+  fgdf
 
   # Questions
-  Github: https://github.com/dfg <br>
-  For any questions or concerns, please reach out to me via email: dfg
+  Github: https://github.com/fdgfd <br>
+  For any questions or concerns, please reach out to me via email: gfdgdfg
 
