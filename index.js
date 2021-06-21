@@ -129,7 +129,7 @@ const questions = [
     name: "badges",
     message:
       "Which language from this list is applied the most in your project:",
-    choices: ["Javascript", "HTML", "CSS", "Node JS", "No badges"],
+    choices: ["Javascript", "HTML", "CSS", "Node JS", "No Badges"],
   },
   //Add to the section entitled Badges - End
 

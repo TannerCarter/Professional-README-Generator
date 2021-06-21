@@ -152,15 +152,15 @@ function generateMarkdown(data) {
   ${data.description}
 
   # Table of Contents
-  * [Installation](#installation)
-  * [Credit](#credit)
-  * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [license](#license)
-  * [Badges](#badges)
-  * [Features](#features)
-  * [Tests](#tests)
-  * [Questions](#questions)
+  - [Installation](#installation)
+  - [Credit](#credit)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [license](#license)
+  - [Badges](#badges)
+  - [Features](#features)
+  - [Tests](#tests)
+  - [Questions](#questions)
   
   # Installation
   ${data.installation}
