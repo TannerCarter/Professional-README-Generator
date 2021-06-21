@@ -7,7 +7,7 @@
   ![Language Badge](https://img.shields.io/static/v1?label=language&message=Javascript&color=brightgreen)
 
   # Description
-  Have fun
+  It generates a professional read me based off of your inputs
 
   # Table of Contents
   - [Installation](#installation)
@@ -21,10 +21,10 @@
   - [Questions](#questions)
   
   # Installation
-  Have fun x2
+  Have fun
 
   # Usage
-  DO NOT EVER ABUSE THE CODE.... EVER
+  Have a whole lot of fun
 
   # Credits
   Xandromus
@@ -39,15 +39,15 @@
 
 
   # Features
-  A ton
+  More fun stuff
 
   # Contributing
-  Super fun
+  DO NOT ABUSE THE CODE... EVER
 
   # Tests
-  A whole lot of tests
+  A grip of tests
 
   # Questions
   Github: https://github.com/TannerCarter <br>
-  For any questions or concerns, please reach out to me via email: JasonStatham@gmail.comm
+  For any questions or concerns, please reach out to me via email: JasonStatham@gmail.commm
 
