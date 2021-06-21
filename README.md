@@ -1,53 +1,53 @@
-# Profesional ReadMe Generator 
+# Professional README Generator 
   
  
   ![license badge](https://img.shields.io/badge/license-MIT-brightgreen) 
   
  
-  ![Language Badge]https://img.shields.io/badge/Language-Javascript-brightgreen
+  ![Language Badge](https://img.shields.io/badge/Language-Javascript-brightgreen)
 
   # Description
-  To have fun
+  Extremely fun
 
   # Table of Contents
-  * [Installation](#installation)
-  * [Credit](#credit)
-  * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [license](#license)
-  * [Badges](#badges)
-  * [Features](#features)
-  * [Tests](#tests)
-  * [Questions](#questions)
+  - [Installation](#installation)
+  - [Credit](#credit)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [license](#license)
+  - [Badges](#badges)
+  - [Features](#features)
+  - [Tests](#tests)
+  - [Questions](#questions)
   
   # Installation
-  undefined
+  To enjoy every moment of life
 
   # Usage
-  Happy wife, happy life
+  To create a readme
 
   # Credits
   Xandromus
 
   
   # license 
-  ![License badge]https://choosealicense.com/licenses/mit/
+  https://choosealicense.com/licenses/mit/
 
   
   # Badges 
-  ![Language Badge]https://img.shields.io/badge/Language-undefined-brightgreen
+  [Language Badge](https://img.shields.io/badge/Language-undefined-brightgreen)
 
 
   # Features
-  A whole lotta fun ones
+  5
 
   # Contributing
-  TO NEVER ABUSE THE CODE ... EVER..
+  Please do
 
   # Tests
-  More than dexter
+  Stressful ones
 
   # Questions
-  Github: https://github.com/TannerCarter
+  Github: https://github.com/TannerCarter </br>
   For any questions or concerns, please reach out to me via email: JasonStatham@gmail.com
 

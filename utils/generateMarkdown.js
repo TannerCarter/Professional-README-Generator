@@ -65,7 +65,7 @@ function renderlicenseLink(license) {
         cert = "unlicense";
         break;
     }
-    return `![License badge]https://choosealicense.com/licenses/${cert}/`;
+    return `https://choosealicense.com/licenses/${cert}/`;
   }
   return "";
 }
@@ -100,7 +100,7 @@ function renderBadges(badges) {
         lang = "Node%20JS";
         break;
     }
-    return `![Language Badge]https://img.shields.io/badge/Language-${lang}-brightgreen`;
+    return `![Language Badge](https://img.shields.io/badge/Language-${lang}-brightgreen)`;
   }
   return "";
 }
@@ -124,7 +124,7 @@ function renderbadgeLink(badges) {
         lang = "Node%20JS";
         break;
     }
-    return `![Language Badge]https://img.shields.io/badge/Language-${lang}-brightgreen`;
+    return `[Language Badge](https://img.shields.io/badge/Language-${lang}-brightgreen)`;
   }
   return "";
 }
@@ -152,15 +152,15 @@ function generateMarkdown(data) {
   ${data.description}
 
   # Table of Contents
-  * [Installation](#installation)
-  * [Credit](#credit)
-  * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [license](#license)
-  * [Badges](#badges)
-  * [Features](#features)
-  * [Tests](#tests)
-  * [Questions](#questions)
+  - [Installation](#installation)
+  - [Credit](#credit)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [license](#license)
+  - [Badges](#badges)
+  - [Features](#features)
+  - [Tests](#tests)
+  - [Questions](#questions)
   
   # Installation
   ${data.installation}
@@ -186,7 +186,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   # Questions
-  Github: https://github.com/${data.githubUsername}
+  Github: https://github.com/${data.githubUsername} </br>
   For any questions or concerns, please reach out to me via email: ${data.email}
 
 `;
