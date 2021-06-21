@@ -1,13 +1,13 @@
-# Jason 
+# For the lolz 
   
  
-  [license badge](https://img.shields.io/badge/license-MIT-brightgreen) 
+  [license badge](https://img.shields.io/badge/license-undefined-brightgreen) 
   
  
   ![Language Badge](https://img.shields.io/static/v1?label=language&message=Javascript&color=brightgreen)
 
   # Description
-  sadsa
+  sa
 
   # Table of Contents
   - [Installation](#installation)
@@ -21,17 +21,17 @@
   - [Questions](#questions)
   
   # Installation
-  dffdgfd
+  cxc
 
   # Usage
-  sfdgd
+  fgf
 
   # Credits
-  dfsdsa
+  cvvb
 
   
   # license 
-  [License badge](https://choosealicense.com/licenses/mit/)
+  [License badge](https://choosealicense.com/licenses/apache-2.0/)
 
   
   # Badges 
@@ -39,15 +39,15 @@
 
 
   # Features
-  dsfdsf
+  dsc
 
   # Contributing
-  dsfsd
+  bbg
 
   # Tests
-  fdsf
+  csd
 
   # Questions
-  Github: https://github.com/dsfds <br>
-  For any questions or concerns, please reach out to me via email: dsff
+  Github: https://github.com/vf <br>
+  For any questions or concerns, please reach out to me via email: vfd
 
