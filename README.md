@@ -1,13 +1,13 @@
-# Tanner 
+# Professional README Generator 
   
  
-   
+  [license badge](https://img.shields.io/badge/license-MIT-brightgreen) 
   
  
   ![Language Badge](https://img.shields.io/static/v1?label=language&message=Javascript&color=brightgreen)
 
   # Description
-  What is up
+  Have fun
 
   # Table of Contents
   - [Installation](#installation)
@@ -21,15 +21,17 @@
   - [Questions](#questions)
   
   # Installation
-  sad
+  Have fun x2
 
   # Usage
-  reter
+  DO NOT EVER ABUSE THE CODE.... EVER
 
   # Credits
-  reret
+  Xandromus
 
   
+  # license 
+  [License badge](https://choosealicense.com/licenses/mit/)
 
   
   # Badges 
@@ -37,15 +39,15 @@
 
 
   # Features
-  fdgdf
+  A ton
 
   # Contributing
-  err
+  Super fun
 
   # Tests
-  fgdf
+  A whole lot of tests
 
   # Questions
-  Github: https://github.com/fdgfd <br>
-  For any questions or concerns, please reach out to me via email: gfdgdfg
+  Github: https://github.com/TannerCarter <br>
+  For any questions or concerns, please reach out to me via email: JasonStatham@gmail.comm
 
