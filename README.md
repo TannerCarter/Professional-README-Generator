@@ -7,7 +7,7 @@
   ![Language Badge](https://img.shields.io/badge/Language-Javascript-brightgreen)
 
   # Description
-  Extremely fun
+  It's the funnest thing ever
 
   # Table of Contents
   - [Installation](#installation)
@@ -21,10 +21,10 @@
   - [Questions](#questions)
   
   # Installation
-  To enjoy every moment of life
+  Have fun
 
   # Usage
-  To create a readme
+  Happy wife, happy life.
 
   # Credits
   Xandromus
@@ -39,13 +39,13 @@
 
 
   # Features
-  5
+  About 5 of them.
 
   # Contributing
-  Please do
+  DON'T ABUSE THE CODE.... EVER
 
   # Tests
-  Stressful ones
+  A whole lotta of them
 
   # Questions
   Github: https://github.com/TannerCarter </br>
