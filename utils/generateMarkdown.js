@@ -100,7 +100,7 @@ function renderBadges(badges) {
         lang = "Node%20JS";
         break;
     }
-    return `![Language Badge]https://img.shields.io/badge/Language-${lang}-brightgreen`;
+    return `![Language Badge]https://img.shields.io/static/v1?label=language&message=${lang}&color=brightgreen`;
   }
   return "";
 }
@@ -124,7 +124,7 @@ function renderbadgeLink(badges) {
         lang = "Node%20JS";
         break;
     }
-    return `![Language Badge]https://img.shields.io/badge/Language-${lang}-brightgreen`;
+    return `![Language Badge]https://img.shields.io/static/v1?label=language&message=${lang}&color=brightgreen`;
   }
   return "";
 }
