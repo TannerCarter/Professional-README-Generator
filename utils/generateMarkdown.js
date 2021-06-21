@@ -29,7 +29,7 @@ function renderlicenseBadge(license) {
         cert = "unlicense";
         break;
     }
-    return `![license badge](https://img.shields.io/badge/license-${cert}-brightgreen)`;
+    return `[license badge](https://img.shields.io/badge/license-${cert}-brightgreen)`;
   }
   return "";
 }
@@ -65,7 +65,7 @@ function renderlicenseLink(license) {
         cert = "unlicense";
         break;
     }
-    return `![License badge]https://choosealicense.com/licenses/${cert}/`;
+    return `[License badge](https://choosealicense.com/licenses/${cert}/)`;
   }
   return "";
 }
@@ -100,7 +100,7 @@ function renderBadges(badges) {
         lang = "Node%20JS";
         break;
     }
-    return `![Language Badge]https://img.shields.io/static/v1?label=language&message=${lang}&color=brightgreen`;
+    return `![Language Badge](https://img.shields.io/static/v1?label=language&message=${lang}&color=brightgreen)`;
   }
   return "";
 }
@@ -124,7 +124,7 @@ function renderbadgeLink(badges) {
         lang = "Node%20JS";
         break;
     }
-    return `![Language Badge]https://img.shields.io/static/v1?label=language&message=${lang}&color=brightgreen`;
+    return `[Language Badge](https://img.shields.io/static/v1?label=language&message=${lang}&color=brightgreen)`;
   }
   return "";
 }
@@ -186,7 +186,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   # Questions
-  Github: https://github.com/${data.githubUsername}
+  Github: https://github.com/${data.githubUsername} <br>
   For any questions or concerns, please reach out to me via email: ${data.email}
 
 `;

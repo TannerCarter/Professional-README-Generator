@@ -1,13 +1,13 @@
-# Professional ReadMe Generator 
+# Professional README Generator 
   
  
-  ![license badge](https://img.shields.io/badge/license-MIT-brightgreen) 
+  [license badge](https://img.shields.io/badge/license-MIT-brightgreen) 
   
  
-  ![Language Badge]https://img.shields.io/static/v1?label=language&message=Javascript&color=brightgreen
+  ![Language Badge](https://img.shields.io/static/v1?label=language&message=Javascript&color=brightgreen)
 
   # Description
-  Fun
+  Very fun
 
   # Table of Contents
   - [Installation](#installation)
@@ -24,30 +24,30 @@
   undefined
 
   # Usage
-  To enjoy
+  To live a happy life
 
   # Credits
   Xandromus
 
   
   # license 
-  ![License badge]https://choosealicense.com/licenses/mit/
+  [License badge](https://choosealicense.com/licenses/mit/)
 
   
   # Badges 
-  ![Language Badge]https://img.shields.io/static/v1?label=language&message=undefined&color=brightgreen
+  [Language Badge](https://img.shields.io/static/v1?label=language&message=undefined&color=brightgreen)
 
 
   # Features
-  A whole lotta fun stuff
+  A whole lotta fun ones
 
   # Contributing
-  To have a fantastic time 
+  Please don't abuse the code.... Ever
 
   # Tests
-  To have fun and don't stay out to late.
+  A whole lotta fun ones
 
   # Questions
-  Github: https://github.com/TannerCarter
-  For any questions or concerns, please reach out to me via email: Jason@jason.com
+  Github: https://github.com/TannerCarter <br>
+  For any questions or concerns, please reach out to me via email: JasonStatham@gmail.com
 
